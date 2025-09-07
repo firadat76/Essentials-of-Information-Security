@@ -5,3 +5,5 @@ In Week 1, we began by introducing the fundamentals of Information Security. We 
 In Week 2, we shifted to the technical foundations by reviewing the OSI and TCP/IP models. These models provide the framework for understanding how data travels across networks. We also introduced key attack techniques such as spoofing, sniffing, and related threats, helping you connect theoretical concepts to real-world risks.
 
 To get ready for upcoming lab sessions, you are required to have Kali Linux installed on your laptops. Starting next class, we will begin hands-on activities involving packet generation and sniffing to strengthen your practical understanding of network security.
+
+Make sure that all the necessary tools have been installed.
