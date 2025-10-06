@@ -4,3 +4,28 @@ Activity 3 (Policy)
 Activity 4 (Monitoring)
 Activity 5 (Business)
 Activity 6 (Response)
+
+Activity 1 → 2
+Connection: The asset inventory spreadsheet from Lab 1 becomes the input for vulnerability scanning in Activity 2
+
+Example: "Take the 4 web servers you discovered in Lab 1 and now scan them for vulnerabilities"
+
+Activity 2 → 3
+Connection: The vulnerability findings from Lab 2 inform the security control requirements in the Activity 3 policy
+
+Example: "Because you found unpatched systems in Lab 2, your policy must include patch management requirements"
+
+Activity 3 → 4
+Connection: The policy from Lab 3 defines what should be monitored in Activity 4
+
+Example: "Your policy requires detecting unauthorized assets, so build monitoring for that"
+
+Activities 1-4 → 5
+Connection: All previous data feeds the business impact analysis
+
+Example: "Use your asset inventory + vulnerability data + monitoring findings to calculate actual business risk"
+
+Activities 1-5 → 6
+Connection: The complete asset management program enables effective incident response
+
+Example: "During the incident, use your asset database to quickly identify affected systems"
